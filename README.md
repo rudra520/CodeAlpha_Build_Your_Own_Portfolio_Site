@@ -78,7 +78,7 @@ Check out the live version of the portfolio website:
 ![Skills & Projects](https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site/blob/54f0ca1921d323eaf050ea14280369ba3236dfd9/Portfolio2.png)
 
 ### Section 4: Contact & Footer
-![Contact & Footer](./images/section3.png)
+![Contact & Footer](https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site/blob/f40dd2197e1814d8f62f1ffb72034cc5956daebb/Portfolio3.png)
 
 ---
 
