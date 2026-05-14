@@ -13,13 +13,14 @@
 
 - [✨ Features](#-features)
 - [🎯 Project Overview](#-project-overview)
+- [🌐 Live Demo](#-live-demo)
+- [📸 Screenshots](#-screenshots)
 - [🚀 Getting Started](#-getting-started)
 - [📁 Project Structure](#-project-structure)
 - [💻 Technologies Used](#-technologies-used)
 - [🎨 Customization Guide](#-customization-guide)
 - [📱 Responsive Design](#-responsive-design)
 - [🔧 Features Included](#-features-included)
-- [📸 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [📞 Contact](#-contact)
 - [📝 License](#-license)
@@ -41,7 +42,7 @@
 
 ## 🎯 Project Overview
 
-This project is a complete personal portfolio website built from scratch using only HTML, CSS, and JavaScript. It serves as a digital resume and showcase of your professional skills, completed projects, and ways to contact you.
+This project is a complete personal portfolio website built from scratch using only HTML, CSS, and JavaScript. It serves as a digital resume and showcase of your professional skills.
 
 **Key Sections:**
 - 🏠 **Home/Hero Section** - Eye-catching introduction
@@ -50,6 +51,31 @@ This project is a complete personal portfolio website built from scratch using o
 - 💼 **Projects** - Showcase of completed work
 - 📧 **Contact** - Multiple ways to reach out
 - 🔗 **Social Links** - Connect on various platforms
+
+---
+
+## 🌐 Live Demo
+
+Check out the live version of the portfolio website:
+
+🔗 **[View Live Portfolio](https://rudra520.netlify.app/)**
+
+### Preview
+
+![Portfolio Preview](./images/preview.png)
+
+---
+
+## 📸 Screenshots
+
+### Section 1: Hero Section
+![Hero Section](./images/section1.png)
+
+### Section 2: Skills & Projects
+![Skills & Projects](./images/section2.png)
+
+### Section 3: Contact & Footer
+![Contact & Footer](./images/section3.png)
 
 ---
 
@@ -65,3 +91,115 @@ This project is a complete personal portfolio website built from scratch using o
    ```bash
    git clone https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site.git
    cd CodeAlpha_Build_Your_Own_Portfolio_Site
+   ```
+
+2. **Open in browser:**
+   - Simply open `index.html` in your web browser
+   - Or use a live server extension in your code editor
+
+3. **Customize:**
+   - Edit `index.html` to change content
+   - Modify `style.css` for styling
+   - Update `script.js` for functionality
+
+---
+
+## 📁 Project Structure
+
+```
+CodeAlpha_Build_Your_Own_Portfolio_Site/
+├── index.html          # Main HTML file
+├── style.css           # Styling
+├── script.js           # JavaScript functionality
+├── images/             # Image assets
+│   ├── preview.png     # Preview image
+│   ├── section1.png    # Hero section screenshot
+│   ├── section2.png    # Skills & projects screenshot
+│   └── section3.png    # Contact & footer screenshot
+└── README.md           # Project documentation
+```
+
+---
+
+## 💻 Technologies Used
+
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Modern styling and animations
+- **JavaScript** - Interactive functionality and DOM manipulation
+- **Netlify** - Hosting and deployment
+
+---
+
+## 🎨 Customization Guide
+
+### Changing Colors
+Edit the CSS variables in `style.css`:
+```css
+:root {
+  --primary-color: #your-color;
+  --secondary-color: #your-color;
+}
+```
+
+### Adding Projects
+1. Add new project cards in the projects section of `index.html`
+2. Style them using existing CSS classes
+3. Add project images in the `images/` folder
+
+### Updating Contact Information
+Update the contact links and information in the footer section of `index.html`
+
+---
+
+## 📱 Responsive Design
+
+The portfolio is designed to be fully responsive:
+- **Desktop** - Full-featured experience with all sections visible
+- **Tablet** - Optimized layout for medium screens
+- **Mobile** - Touch-friendly navigation and readable content
+
+---
+
+## 🔧 Features Included
+
+- 🎯 Smooth scroll navigation
+- ✨ Fade-in animations
+- 🎨 Gradient backgrounds
+- 📱 Mobile hamburger menu
+- 🔗 Social media links
+- 💬 Contact form
+- 🎪 Project showcase
+- 📊 Skills display
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit your changes (`git commit -m 'Add some improvement'`)
+4. Push to the branch (`git push origin feature/improvement`)
+5. Open a Pull Request
+
+---
+
+## 📞 Contact
+
+Feel free to reach out to me:
+
+- **GitHub:** [@rudra520](https://github.com/rudra520)
+- **Portfolio:** [rudra520.netlify.app](https://rudra520.netlify.app/)
+- **Email:** [Add your email]
+- **LinkedIn:** [Add your LinkedIn]
+
+---
+
+## 📝 License
+
+This project is open source and available under the MIT License. See the LICENSE file for details.
+
+---
+
+**⭐ If you found this helpful, please give it a star!**
