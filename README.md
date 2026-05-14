@@ -69,12 +69,15 @@ Check out the live version of the portfolio website:
 ## 📸 Screenshots
 
 ### Section 1: Hero Section
-![Hero Section](./images/section1.png)
+![Hero Section](https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site/blob/6c2587dbe8dabceddebf17bbac2a61f8c704c394/Portfolio.png)
 
 ### Section 2: Skills & Projects
-![Skills & Projects](./images/section2.png)
+![Skills & Projects](https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site/blob/22c925fcff68c61f920507150653cd8084774884/Portfolio1.png)
 
-### Section 3: Contact & Footer
+### Section 3: Skills & Projects
+![Skills & Projects](https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site/blob/22c925fcff68c61f920507150653cd8084774884/Portfolio1.png)
+
+### Section 4: Contact & Footer
 ![Contact & Footer](./images/section3.png)
 
 ---
