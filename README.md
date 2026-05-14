@@ -62,7 +62,7 @@ Check out the live version of the portfolio website:
 
 ### Preview
 
-![Portfolio Preview](./images/preview.png)
+![Portfolio Preview](https://github.com/rudra520/CodeAlpha_Build_Your_Own_Portfolio_Site/blob/6c2587dbe8dabceddebf17bbac2a61f8c704c394/Portfolio.png)
 
 ---
 
